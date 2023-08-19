@@ -1,0 +1,12 @@
+@media (max-width:769px) {
+    html{
+        font-size: 15px;
+    }
+    header{
+        flex-direction: column;
+        padding: 3rem;
+        align-items: start;
+        gap:4rem;
+        
+    }
+}
